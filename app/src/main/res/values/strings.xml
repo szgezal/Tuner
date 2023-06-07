@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tuner</string>
+    <string name="pitch_n_a">Pitch: N/A</string>
+    <string name="diff_n_a">Diff: N/A</string>
+    <string name="start">START</string>
+    <string name="musical_note">Musical note</string>
+</resources>
